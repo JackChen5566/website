@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#e2e8f0"/>
+  <ellipse cx="450" cy="430" rx="320" ry="34" fill="#cbd5e1"/>
+  <path d="M155 350h575l-55-120c-25-55-75-85-140-85H350c-65 0-113 32-144 89l-51 116Z" fill="#2563eb"/>
+  <path d="M322 175h235c48 0 82 21 104 65H262c18-40 31-65 60-65Z" fill="#94a3b8"/>
+  <rect x="125" y="330" width="640" height="90" rx="40" fill="#2563eb"/>
+  <circle cx="265" cy="420" r="62" fill="#111827"/>
+  <circle cx="265" cy="420" r="28" fill="#94a3b8"/>
+  <circle cx="635" cy="420" r="62" fill="#111827"/>
+  <circle cx="635" cy="420" r="28" fill="#94a3b8"/>
+  <text x="450" y="515" text-anchor="middle" font-family="Arial" font-size="34" font-weight="bold" fill="#334155">DriveMax S5</text>
+</svg>
